@@ -23,6 +23,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+[Тестировщик с нуля за 10 часов / Полный курс QA/ Теория и практика](https://www.youtube.com/watch?v=jFDMhgcvDh4&t=16676s)
 
 <!-- YOUTUBE:END -->
 
