@@ -24,7 +24,8 @@
 
 <!-- YOUTUBE:START -->
 - [Тестировщик с нуля за 10 часов / Полный курс QA/ Теория и практика](https://www.youtube.com/watch?v=jFDMhgcvDh4&t=16676s)
-
+- [О чем спросить на собеседовании в IT компанию? Главные ВОПРОСЫ на ИНТЕРВЬЮ в айти](https://www.youtube.com/watch?v=uvw2N1Y2Wwc&t=26s)
+- [Вопросы с реальных собеседований для тестировщика (QA Engineer)](https://www.youtube.com/watch?v=cEq5OIHelCo)
 <!-- YOUTUBE:END -->
 
 ---
